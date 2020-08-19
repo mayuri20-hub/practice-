@@ -13,7 +13,7 @@ using namespace std;
 void add_comment()
 {
 
-	string str1= "developer=1 doing code";
+	string str1= "developer 1 merging code";
 
 	cout<<"developer 1 code  = " << str1 <<endl;
 }
